@@ -5,7 +5,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
- manege your contact !
+Manage The Contact !
 
  ![Contact-Book-Tra](https://github.com/user-attachments/assets/164755a3-5019-463e-8a0a-54dc158992b3)
 
