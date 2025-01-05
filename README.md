@@ -1,4 +1,4 @@
-# contact-book-react
+# Contact-Manager-React
 
 
 [Live Demo](https://contactbookmng.netlify.app/)
